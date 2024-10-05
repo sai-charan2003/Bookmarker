@@ -1,0 +1,18 @@
+class WebsiteData {
+  final String title;
+  final String imageUrl;
+  final String publishedDate;
+  final String hostURL;
+
+  WebsiteData({
+    required this.title,
+    required this.imageUrl,
+    required this.publishedDate,
+    required this.hostURL
+  });
+
+  @override
+  String toString() {
+    return 'Title: $title\nImage URL: $imageUrl\nPublished Date: $publishedDate';
+  }
+}
