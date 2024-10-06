@@ -11,6 +11,7 @@ void showMoreOptionBottomSheet(BuildContext context,dynamic entity) {
   showModalBottomSheet(
     context: context,
     isDismissible: true,
+    enableDrag: true,
     isScrollControlled: true,
     builder: (BuildContext context) {
       final TextEditingController urlTextEditingController = TextEditingController();

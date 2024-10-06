@@ -131,7 +131,7 @@ class _HomescreenState extends State<Homescreen> {
                     menuChildren:[
                       MenuItemButton(
                         onPressed: (){
-                          Navigator.push(context, MaterialPageRoute(builder: (context)=>const Settingsscreen()));
+                          Navigator.push(context, MaterialPageRoute(builder: (context)=>const Settingsscreen())).then((value) { setState(() {});});
                         },
                         child: Text("Settings"),
                       )

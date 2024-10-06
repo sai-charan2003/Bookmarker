@@ -71,6 +71,7 @@ void showAddBookmarkBottomSheet(BuildContext context, String? url) {
   showModalBottomSheet(
     context: context,
     isDismissible: true,
+    enableDrag: true,
     isScrollControlled: true,
     builder: (BuildContext context) {
       return Padding(
