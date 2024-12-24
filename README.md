@@ -23,6 +23,7 @@ With Bookmarker, users can quickly enter any website URL and save it for future 
 
 
 
-![573_2x_shots_so](https://github.com/user-attachments/assets/db2fc7cf-9ef5-4ff4-a8b6-ed6eee6b1b83)
 
-![885_2x_shots_so](https://github.com/user-attachments/assets/1a2e9d5f-7798-4110-9d72-2aaf9de353b0)
+![Shots Mockup 2x](https://github.com/user-attachments/assets/2f836f34-6568-4df5-95ab-9a3ca1f7161a)
+
+![Shots Mockups](https://github.com/user-attachments/assets/0cf33b14-291c-44ce-88c8-398880407be1)
